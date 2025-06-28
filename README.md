@@ -16,19 +16,19 @@ it's a phase in what is known as Software Development Life Cycle (SDLC).
 
 # Key Activities in Requirement Analysis.
 
- * Requirement Gathering
+ * **Requirement Gathering**
    - Engage with stakeholders to collect initial requirements.
    - Use various techniques like interviews, surveys, and workshops.
-* Requirement Elicitation
+* **Requirement Elicitation**
   - Refine and elaborate on the gathered requirements.
   - Use techniques like brainstorming, focus groups, and prototyping.
-* Requirement Documentation
+* **Requirement Documentation**
   - Document the requirements in a detailed and structured format.
   - Use requirement specification documents, user stories, and use cases.
-* Requirement Analysis and Modeling
+* **Requirement Analysis and Modeling**
   - Analyze and prioritize the requirements.
   - Create models to visualize and understand the requirements.
-* Requirement Validation
+* **Requirement Validation**
   - Review and validate the requirements with stakeholders.
   - Define acceptance criteria and ensure traceability.
 
@@ -39,3 +39,13 @@ it's a phase in what is known as Software Development Life Cycle (SDLC).
   * Non-functional Requirements:
     - performance / page loading speed
     - security / user auth
+
+# Use Case Diagrams:
+  it shows how different users (actors) interact with the system to achieve specific goals (use cases).
+  
+* **Benefits of Use Case Diagrams:**
+  - Provide a clear visual representation of system functionalities.
+  - Help in identifying and organizing system requirements.
+  - Facilitate communication among stakeholders and development team.
+
+ ![booking diagram](./alx-booking-uc.png.png)
