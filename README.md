@@ -31,3 +31,11 @@ it's a phase in what is known as Software Development Life Cycle (SDLC).
 * Requirement Validation
   - Review and validate the requirements with stakeholders.
   - Define acceptance criteria and ensure traceability.
+
+# Types of Requirements:
+  * Functional Requirements: 
+    - login system / User Registration. 
+    - report generation
+  * Non-functional Requirements:
+    - performance / page loading speed
+    - security / user auth
