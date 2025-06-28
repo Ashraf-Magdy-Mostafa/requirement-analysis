@@ -48,4 +48,4 @@ it's a phase in what is known as Software Development Life Cycle (SDLC).
   - Help in identifying and organizing system requirements.
   - Facilitate communication among stakeholders and development team.
 
- ![booking diagram](./alx-booking-uc.png.png)
+ ![booking diagram](./alx-booking-uc.png)
